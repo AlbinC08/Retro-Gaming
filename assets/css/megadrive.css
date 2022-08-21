@@ -1,0 +1,120 @@
+/*******************head**********************/
+
+.logo{
+    width: 1000px;
+    height: 300px;    
+    display: flex;
+}
+
+
+/*****************general*******************/
+
+*{
+   
+    margin: auto;
+    
+}
+
+p{
+    margin: 100px;
+    font-family: helvetica;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.bg-blue{
+    background-color: rgb(56, 68, 228);
+}
+
+main{
+    background-color: rgb(56, 68, 228);
+}
+
+html{
+    display: flex;
+}
+
+/****************navbar*******************/
+
+.navbar{
+    height: 200px;
+    display: flex;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+   
+}
+
+li{
+    display: inline;
+}
+
+/****************selection navbar*********************/
+
+.megadrive1{
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(87, 87, 87);
+    border-radius: 10px;
+}
+
+
+/**************img navbar****************/
+
+
+nav img{
+    height: 100px;
+    
+}
+
+.snes1 img{
+    height: 100px;
+    
+}
+
+.megadrive1 img{
+    height: 50px;
+    background-color: white;
+    
+}
+
+a{
+    background-color: white; 
+    text-decoration: none;
+
+}
+
+/************************main logo***************************/
+
+.logomega{
+    height: 150px;
+    display: flex;
+}
+
+/***********************footer logo************************/
+
+.megadrive{
+    width: 500px;
+    display: flex;
+}
+
+/***********************footer************************/
+
+footer{
+    background-color: rgb(56, 68, 228);
+display: flex;
+justify-content: center;
+}
+
+footer p{
+    text-align: center;
+}

@@ -1,0 +1,140 @@
+/*******************head**********************/
+
+.logo {
+    width: 1000px;
+    height: 300px;
+    display: flex;
+}
+
+
+/*****************general*******************/
+
+
+
+p {
+   
+    margin: 100px;
+    font-family: helvetica;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.bg-blue{
+    background-color: rgb(56, 68, 228);
+}
+main{
+    background-color: rgb(56, 68, 228);
+}
+
+.presentation{
+    height: 500px;
+    display: flex;
+    margin: auto;
+}
+
+body{
+    
+    background-color: rgb(56, 68, 228);
+}
+*{
+    margin: auto;
+}
+
+html{
+    display: flex;
+    
+}
+
+
+/****************navbar*******************/
+
+.navbar {
+    height: 200px;
+    display: flex;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(164, 164, 165);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+li {
+    margin: auto;
+    display: inline;
+}
+
+/**************img navbar****************/
+
+nav img{
+    height: 100px;
+    
+}
+
+
+.megadrive1 img{
+    height: 50px;
+    background-color: white;
+    
+}
+
+a{
+    background-color: white; 
+    text-decoration: none;
+    
+}
+
+
+
+/****************selection navbar*********************/
+
+.accueil{
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(87, 87, 87);
+    border-radius: 10px;
+    
+}
+
+
+/************************main logo***************************/
+
+.start {
+    display: flex;
+    width: 500px;
+    margin: auto;
+}
+
+
+/***********************footer logo************************/
+
+.mario {
+    display: flex;
+    margin: auto;
+}
+
+
+/***********************footer************************/
+
+footer{
+    background-color: rgb(56, 68, 228);
+display: flex;
+justify-content: center;
+}
+
+footer p{
+    text-align: center;
+}
+
+
+
+
+
